@@ -1,2 +1,2 @@
 # -investment-platformkishim
-    investment-platformKishim
+    investmentplatformKishim
